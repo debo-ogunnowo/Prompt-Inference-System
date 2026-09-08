@@ -8,7 +8,7 @@ Rather than focusing solely on detecting whether a piece of text was generated b
 
 The system consists of two main components:
 
-P-Reconstructor – Reconstructs a probable student prompt from an AI-generated response.
+P-Reconstructor – Reconstructs a probable student prompt from an AI-generated response. 
 P-Classifier – Classifies the reconstructed prompt according to its intended use of AI.
 
 The system is designed as a research prototype to support academic integrity monitoring and provide educators with additional context about student-AI interactions.
